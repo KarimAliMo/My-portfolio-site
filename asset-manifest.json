@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//KarimAliMo.github.io/My-portfolio-site/static/css/main.bba6691c.css",
+    "main.js": "/https//KarimAliMo.github.io/My-portfolio-site/static/js/main.15f6460a.js",
+    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/https//KarimAliMo.github.io/My-portfolio-site/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.b51722100b952bb670f6.jpg",
+    "index.html": "/https//KarimAliMo.github.io/My-portfolio-site/index.html",
+    "main.bba6691c.css.map": "/https//KarimAliMo.github.io/My-portfolio-site/static/css/main.bba6691c.css.map",
+    "main.15f6460a.js.map": "/https//KarimAliMo.github.io/My-portfolio-site/static/js/main.15f6460a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba6691c.css",
+    "static/js/main.15f6460a.js"
+  ]
+}
