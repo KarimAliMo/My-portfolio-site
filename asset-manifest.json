@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/https//KarimAliMo.github.io/My-portfolio-site/static/css/main.bba6691c.css",
-    "main.js": "/https//KarimAliMo.github.io/My-portfolio-site/static/js/main.15f6460a.js",
-    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/https//KarimAliMo.github.io/My-portfolio-site/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.b51722100b952bb670f6.jpg",
-    "index.html": "/https//KarimAliMo.github.io/My-portfolio-site/index.html",
-    "main.bba6691c.css.map": "/https//KarimAliMo.github.io/My-portfolio-site/static/css/main.bba6691c.css.map",
-    "main.15f6460a.js.map": "/https//KarimAliMo.github.io/My-portfolio-site/static/js/main.15f6460a.js.map"
+    "main.css": "/My-portfolio-site/static/css/main.bba6691c.css",
+    "main.js": "/My-portfolio-site/static/js/main.0c210110.js",
+    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/My-portfolio-site/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.b51722100b952bb670f6.jpg",
+    "index.html": "/My-portfolio-site/index.html",
+    "main.bba6691c.css.map": "/My-portfolio-site/static/css/main.bba6691c.css.map",
+    "main.0c210110.js.map": "/My-portfolio-site/static/js/main.0c210110.js.map"
   },
   "entrypoints": [
     "static/css/main.bba6691c.css",
-    "static/js/main.15f6460a.js"
+    "static/js/main.0c210110.js"
   ]
 }
